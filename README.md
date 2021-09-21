@@ -1,5 +1,5 @@
 # AirBNB-Newsroom
 
-AirBnb press room clone 
+https://determined-shockley-8832ac.netlify.app/
 
-recovered from netlify to demonstrate styling princples
+AirBnb press room clone to demonstrate styling princples
